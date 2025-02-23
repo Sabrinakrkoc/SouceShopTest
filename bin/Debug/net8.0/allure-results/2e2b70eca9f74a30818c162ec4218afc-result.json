@@ -1,0 +1,45 @@
+{
+  "uuid": "cb0e24ed-d2bf-4c93-ba0f-0a8d8a4e4faa",
+  "historyId": "881fd5869f8941d2c22bb9c3d7fcdcc7",
+  "testCaseId": "804752da2470a24fbe650784f008c5ff",
+  "fullName": "SauceDemoShop:SauceDemoShop.Tests.ProductTests.SortProductsByPriceLowToHighTest()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-A6OG306"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "SauceDemoShop.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "SortProductsByPriceLowToHighTest"
+    },
+    {
+      "name": "testClass",
+      "value": "ProductTests"
+    }
+  ],
+  "links": [],
+  "name": "SortProductsByPriceLowToHighTest",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1740337445602,
+  "stop": 1740337448634
+}

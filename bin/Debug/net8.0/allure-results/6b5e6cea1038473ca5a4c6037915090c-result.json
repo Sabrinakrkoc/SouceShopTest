@@ -1,0 +1,53 @@
+{
+  "uuid": "66d91ae7-2873-4590-a096-6e29a0c253bb",
+  "historyId": "dad3dec4079749bb4ede7a98a72e7df8",
+  "testCaseId": "fe122cabd62e1e91e57b556810fe3c87",
+  "fullName": "SauceDemoShop:SauceDemoShop.Tests.SortProductsTests.TC_5_1_SortProductsByPriceLowToHigh()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-A6OG306"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "SauceDemoShop.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "TC_5_1_SortProductsByPriceLowToHigh"
+    },
+    {
+      "name": "testClass",
+      "value": "SortProductsTests"
+    },
+    {
+      "name": "feature",
+      "value": "Sort Products"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    }
+  ],
+  "links": [],
+  "name": "TC_5_1_SortProductsByPriceLowToHigh",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1740323834052,
+  "stop": 1740323837713
+}

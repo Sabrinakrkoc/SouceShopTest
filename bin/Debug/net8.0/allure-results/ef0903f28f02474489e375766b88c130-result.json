@@ -1,0 +1,53 @@
+{
+  "uuid": "b1e8e9a5-8980-4948-a5d6-f8f7bc059ace",
+  "historyId": "ab1e47a35ba1b7113f9272a98c167c45",
+  "testCaseId": "44c009d71625464dcb0cce45995dd9a3",
+  "fullName": "SauceDemoShop:SauceDemoShop.Tests.LoginTests.InvalidLoginTest()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-A6OG306"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "SauceDemoShop.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "InvalidLoginTest"
+    },
+    {
+      "name": "testClass",
+      "value": "LoginTests"
+    },
+    {
+      "name": "feature",
+      "value": "Login"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    }
+  ],
+  "links": [],
+  "name": "InvalidLoginTest",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1740340306826,
+  "stop": 1740340309770
+}

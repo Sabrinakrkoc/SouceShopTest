@@ -1,0 +1,49 @@
+{
+  "uuid": "da19ccde-c1f9-4e87-8faf-7cd39913cc06",
+  "historyId": "479a1ac7b26a9b7ba7cc46f5d3122b16",
+  "testCaseId": "a1899b2b68cacc3e24a71d08fc57fc64",
+  "fullName": "SauceDemoShop:SauceDemoShop.Tests.LogoutTests.LogoutTest()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-A6OG306"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "SauceDemoShop.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "LogoutTest"
+    },
+    {
+      "name": "testClass",
+      "value": "LogoutTests"
+    },
+    {
+      "name": "feature",
+      "value": "Logout"
+    }
+  ],
+  "links": [],
+  "name": "LogoutTest",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1740339070542,
+  "stop": 1740339074311
+}

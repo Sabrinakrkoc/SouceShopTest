@@ -1,0 +1,53 @@
+{
+  "uuid": "6e921998-a588-44d5-afd9-94ebc685c903",
+  "historyId": "145e715b01e6aa8b09e144914534d400",
+  "testCaseId": "290ba8c23b6fcc270614b48402c7646f",
+  "fullName": "SauceDemoShop:SauceDemoShop.Tests.CheckoutTests.SuccessfulCheckoutTest()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-A6OG306"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "SauceDemoShop.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "SuccessfulCheckoutTest"
+    },
+    {
+      "name": "testClass",
+      "value": "CheckoutTests"
+    },
+    {
+      "name": "feature",
+      "value": "Checkout"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    }
+  ],
+  "links": [],
+  "name": "SuccessfulCheckoutTest",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1740325378065,
+  "stop": 1740325382366
+}

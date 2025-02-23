@@ -1,0 +1,12 @@
+{
+  "uuid": "c42d396d-a033-42e7-b8f7-3f3e43d36fa0",
+  "name": "SauceDemoShop.Tests.LoginTests",
+  "children": [
+    "4ec762b8-34b0-4be6-a2af-99805d583625"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1740339616987,
+  "stop": 1740339620448
+}

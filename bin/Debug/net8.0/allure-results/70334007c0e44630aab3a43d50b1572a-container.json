@@ -1,0 +1,12 @@
+{
+  "uuid": "73425c95-7f7e-44e2-bfb2-9f445244e850",
+  "name": "SauceDemoShop.Tests.CartTests.AddMultipleProductsToCartTest",
+  "children": [
+    "efa87c4c-40c3-461c-badd-119f36957e90"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1740324173322,
+  "stop": 1740324177088
+}

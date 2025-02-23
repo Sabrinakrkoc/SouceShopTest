@@ -1,0 +1,56 @@
+{
+  "uuid": "831c4d96-7f06-48ba-a059-15fdb78193bd",
+  "historyId": "8ad30eb04e264b4baafba869a2a5621d",
+  "testCaseId": "16311bf25586c644e5c4f910001f95da",
+  "fullName": "SauceDemoShop:SauceDemoShop.Tests.CheckoutTests.CheckoutWithMissingDetailsTest()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-A6OG306"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "SauceDemoShop.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "CheckoutWithMissingDetailsTest"
+    },
+    {
+      "name": "testClass",
+      "value": "CheckoutTests"
+    },
+    {
+      "name": "feature",
+      "value": "Checkout"
+    }
+  ],
+  "links": [],
+  "name": "CheckoutWithMissingDetailsTest",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "System.InvalidOperationException : Sequence contains no elements",
+    "trace": "   at System.Linq.ThrowHelper.ThrowNoElementsException()\r\n   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)\r\n   at SauceDemoShop.Pages.ProductPage.AddProductToCart() in C:\\Users\\Administrator\\repos\\SauceDemoShop\\SauceDemoShop\\Pages\\ProductPage.cs:line 29\r\n   at SauceDemoShop.Tests.CheckoutTests.CheckoutWithMissingDetailsTest() in C:\\Users\\Administrator\\repos\\SauceDemoShop\\SauceDemoShop\\Tests\\CheckoutTests.cs:line 49\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1740332939718,
+  "stop": 1740332942925
+}

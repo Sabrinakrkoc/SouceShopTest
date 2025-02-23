@@ -1,0 +1,15 @@
+{
+  "uuid": "105e149c-fba2-4b4d-90cc-aca459793e9e",
+  "name": "SauceDemoShop.Tests.ProductTests",
+  "children": [
+    "87591ca5-c95c-465c-a518-9fa0ea395791",
+    "ea88f47d-54b8-4d36-923e-df3e966d0658",
+    "be5f30fb-0ed0-4f79-97b9-a4aa6ba85632",
+    "911efff3-ff70-4c05-b825-1ecf45396ef7"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1740332744996,
+  "stop": 1740332757267
+}

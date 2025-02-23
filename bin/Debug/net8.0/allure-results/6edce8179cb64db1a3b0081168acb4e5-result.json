@@ -1,0 +1,49 @@
+{
+  "uuid": "fb7f59fd-de16-4194-b100-c25f6806e9de",
+  "historyId": "c05e2bd57c90c206856b5ded78f98ba4",
+  "testCaseId": "a40e0ba17f0424bcd3d4491f7efb9fce",
+  "fullName": "SauceDemoShop:SauceDemoShop.Tests.ProductTests.AddMultipleProductsToCartTest()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-A6OG306"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "SauceDemoShop.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "AddMultipleProductsToCartTest"
+    },
+    {
+      "name": "testClass",
+      "value": "ProductTests"
+    },
+    {
+      "name": "feature",
+      "value": "Product"
+    }
+  ],
+  "links": [],
+  "name": "AddMultipleProductsToCartTest",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1740340316401,
+  "stop": 1740340319911
+}

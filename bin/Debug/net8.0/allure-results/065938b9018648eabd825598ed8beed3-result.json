@@ -1,0 +1,60 @@
+{
+  "uuid": "6411b0ce-bf55-4af4-ac9e-b3c167d3fe36",
+  "historyId": "f82a322d8f0737687befd1735671bbc9",
+  "testCaseId": "50bb2df9c6b961eff551984e05dcc5d5",
+  "fullName": "SauceDemoShop:SauceDemoShop.Tests.RemoveFromCartTests.TC_3_1_RemoveProductFromCart()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-A6OG306"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "SauceDemoShop.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "TC_3_1_RemoveProductFromCart"
+    },
+    {
+      "name": "testClass",
+      "value": "RemoveFromCartTests"
+    },
+    {
+      "name": "feature",
+      "value": "Remove from Cart"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    }
+  ],
+  "links": [],
+  "name": "TC_3_1_RemoveProductFromCart",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "OpenQA.Selenium.WebDriverException : invalid session id: session deleted as the browser has closed the connection\nfrom disconnected: not connected to DevTools\n  (Session info: chrome=133.0.6943.127)",
+    "trace": "   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)\r\n   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.FindElements(String mechanism, String value)\r\n   at OpenQA.Selenium.By.<.ctor>b__11_1(ISearchContext context)\r\n   at OpenQA.Selenium.By.FindElements(ISearchContext context)\r\n   at OpenQA.Selenium.WebDriver.FindElements(By by)\r\n   at SauceDemoShop.Pages.CartPage.<>c.<get_CartBadge>b__8_0(IWebDriver d) in C:\\Users\\Administrator\\repos\\SauceDemoShop\\SauceDemoShop\\Pages\\CartPage.cs:line 21\r\n   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)\r\n   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)\r\n   at SauceDemoShop.Pages.CartPage.get_CartBadge() in C:\\Users\\Administrator\\repos\\SauceDemoShop\\SauceDemoShop\\Pages\\CartPage.cs:line 21\r\n   at SauceDemoShop.Tests.RemoveFromCartTests.TC_3_1_RemoveProductFromCart() in C:\\Users\\Administrator\\repos\\SauceDemoShop\\SauceDemoShop\\Tests\\RemoveFromCartTests.cs:line 38\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1740323825079,
+  "stop": 1740323834047
+}

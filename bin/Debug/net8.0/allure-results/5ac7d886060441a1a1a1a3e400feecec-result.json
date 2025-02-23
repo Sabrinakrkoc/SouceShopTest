@@ -1,0 +1,49 @@
+{
+  "uuid": "837f060e-fa59-4734-909d-a5e66f32da3f",
+  "historyId": "8ad30eb04e264b4baafba869a2a5621d",
+  "testCaseId": "16311bf25586c644e5c4f910001f95da",
+  "fullName": "SauceDemoShop:SauceDemoShop.Tests.CheckoutTests.CheckoutWithMissingDetailsTest()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-A6OG306"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "SauceDemoShop.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "CheckoutWithMissingDetailsTest"
+    },
+    {
+      "name": "testClass",
+      "value": "CheckoutTests"
+    },
+    {
+      "name": "feature",
+      "value": "Checkout"
+    }
+  ],
+  "links": [],
+  "name": "CheckoutWithMissingDetailsTest",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1740340298749,
+  "stop": 1740340302462
+}

@@ -1,0 +1,12 @@
+{
+  "uuid": "ced61f1f-30e0-4203-8600-f623d9ec2e06",
+  "name": "SauceDemoShop.Tests.ProductTests.SortProductsByPriceLowToHighTest",
+  "children": [
+    "ddaa697a-1f6e-4b56-8aa6-c322eec09a74"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1740338219441,
+  "stop": 1740338222788
+}
