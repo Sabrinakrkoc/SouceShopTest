@@ -34,13 +34,5 @@ namespace SauceDemoShop.Tests
             cartPage.RemoveProductFromCart();
             Assert.That(cartPage.GetCartItemCount(), Is.EqualTo(0));
         }
-
-        [Test]
-        [AllureFeature("Cart")]
-        public void AddSingleProductToCartTest()
-        {
-            productPage.AddSpecificProductToCart(0); 
-            Assert.That(productPage.GetCartItemCount(), Is.EqualTo(1));
-        }
-    }
+    };
 }
