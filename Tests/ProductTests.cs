@@ -33,10 +33,10 @@ namespace SauceDemoShop.Tests
         [Test]
         public void SortProductsByPriceLowToHighTest()
         {
-            productPage.SortProductsByPriceLowToHigh(); // Ordenar los productos por precio de bajo a alto
-            var prices = productPage.GetProductPrices(); // Obtener los precios de los productos
+            productPage.SortProductsByPriceLowToHigh();
+            var prices = productPage.GetProductPrices(); 
             var sortedPrices = prices.OrderBy(p => p).ToList();
-            Assert.That(prices, Is.EqualTo(sortedPrices)); // Verificar que los precios están ordenados correctamente
+            Assert.That(prices, Is.EqualTo(sortedPrices));
         }
 
         [Test]

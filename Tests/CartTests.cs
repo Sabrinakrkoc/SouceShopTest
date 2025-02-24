@@ -39,8 +39,8 @@ namespace SauceDemoShop.Tests
         [AllureFeature("Cart")]
         public void AddSingleProductToCartTest()
         {
-            productPage.AddSpecificProductToCart(0); // Agregar el primer producto
-            Assert.That(productPage.GetCartItemCount(), Is.EqualTo(1)); // Verificar que el contador del carrito sea 1
+            productPage.AddSpecificProductToCart(0); 
+            Assert.That(productPage.GetCartItemCount(), Is.EqualTo(1));
         }
     }
 }

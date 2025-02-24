@@ -15,35 +15,32 @@ namespace SauceDemoShop.Pages
             _wait = new WebDriverWait(driver, TimeSpan.FromSeconds(10));
         }
 
-        // Localizadores de los elementos
         private IWebElement MenuButton => _wait.Until(d => d.FindElement(By.Id("react-burger-menu-btn")));
         private IWebElement LogoutButton => _wait.Until(d => d.FindElement(By.Id("logout_sidebar_link")));
 
-        // Método para hacer clic en el botón del menú
         public void ClickOnMenuButton()
         {
             try
             {
-                _wait.Until(d => MenuButton.Displayed);  // Esperar a que el botón esté visible
+                _wait.Until(d => MenuButton.Displayed);  
                 MenuButton.Click();
             }
             catch (WebDriverTimeoutException)
             {
-                throw new Exception("El botón de menú no estuvo disponible dentro del tiempo esperado.");
+                throw new Exception("The menu button was not available within the expected time.");
             }
         }
 
-        // Método para hacer clic en el botón de logout
         public void ClickOnLogoutButton()
         {
             try
             {
-                _wait.Until(d => LogoutButton.Displayed);  // Esperar a que el botón esté visible
+                _wait.Until(d => LogoutButton.Displayed);
                 LogoutButton.Click();
             }
             catch (WebDriverTimeoutException)
             {
-                throw new Exception("El botón de logout no estuvo disponible dentro del tiempo esperado.");
+                throw new Exception("The logout button was not available within the expected time.");
             }
         }
     }

@@ -1,5 +1,12 @@
 {
   "allure": {
-    "directory": "allure-results"
+    "directory": "allure-results",
+    "title": "Allure Report",
+    "description": "My Allure Report Description",
+    "links": [
+      {
+        "name": "SauceDemo"
+      }
+    ]
   }
 }

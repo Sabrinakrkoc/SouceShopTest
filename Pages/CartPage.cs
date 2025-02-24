@@ -15,7 +15,6 @@ namespace SauceDemoShop.Pages
             _wait = new WebDriverWait(driver, TimeSpan.FromSeconds(10));
         }
 
-        // Cambio aquí: Cambié el selector a .cart_button.remove
         private IWebElement RemoveButton => _wait.Until(d => d.FindElement(By.Id("remove-sauce-labs-backpack")));
         private IWebElement ShoppingCartBadge => _driver.FindElement(By.CssSelector(".shopping_cart_badge"));
 
