@@ -1,0 +1,47 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+out/
+
+# Dependencies
+packages/
+*.nupkg
+project.lock.json
+project.assets.json
+global.json
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# Allure results
+allure-results/
+allure-report/
+
+# Configuration
+appsettings.json
+appsettings.Development.json
+secrets.json
+
+# Environment
+.env
+.env.local
+
+# Test coverage
+coverage/
+TestResults/
+*.coverage
+*.coveragexml
+*.trx
+
+# Rider / JetBrains
+.idea/
+*.iml
